@@ -1,0 +1,3 @@
+Prefix plugins/PathwayTools/example
+Plugin PathwayTools inputfile parameters.pathways.txt outputfile results.txt
+#Plugin PathwayTools inputfile parameters.taxa.txt outputfile results.txt
